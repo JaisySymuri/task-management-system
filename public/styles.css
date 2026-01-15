@@ -1,0 +1,9 @@
+.task-item {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    border: 1px solid #e1e8ed;
+}
+
+.btn {
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+}
